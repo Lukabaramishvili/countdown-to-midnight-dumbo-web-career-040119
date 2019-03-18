@@ -1,6 +1,6 @@
 #write your code here
 
-def counting(integer)
+def countdown(integer)
   
   while integer > 0
   puts "#{integer} SECOND(S)!"
@@ -9,5 +9,3 @@ def counting(integer)
   return "HAPPY NEW YEAR!"
 end
 
-def countdown
-end
