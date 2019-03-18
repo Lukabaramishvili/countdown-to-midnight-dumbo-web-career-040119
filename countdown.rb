@@ -1,9 +1,9 @@
 #write your code here
 
 def counting(integer)
-  count = 0
+  
   while integer > 0
   puts "#{integer} SECOND(S)!"
-
+  integer -= 1 
 def countdown
 end
